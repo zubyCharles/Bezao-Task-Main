@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Tasty Soup",
+        "desc": "Rice noodles, soy sauce, hoisin, chili garlic sauce, honey",
+        "price": "N3000",
+        "prep": "20 MINS",
+        "img": "./assets/Tasty-Soup.png"
+    },
+    {
+        "name": "Rice & Salad",
+        "desc": "Rice, cucumber,grapes, rice, pawpaw",
+        "price": "N4500",
+        "prep": "30 MINS",
+        "img": "./assets/Rice-Salad.png"
+    },
+    {
+        "name": "Goat Meat Soup",
+        "desc": "Goat meat, okra, carrot, vegetables, chili garlic sauce",
+        "price": "N6000",
+        "prep": "25 MINS",
+        "img": "./assets/Goat-Meat.png"
+    }
+]
