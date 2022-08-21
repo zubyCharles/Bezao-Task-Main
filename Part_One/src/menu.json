@@ -1,0 +1,40 @@
+{
+    "menuList": [
+        {
+            "title": "Jollof Rice and Chicken",
+            "content": "Fried potato/yam chips with egg sauce or any topping of your choice",
+            "price": "N1,500",
+            "src": "./assets/Rice.png"
+        },
+        {
+            "title": "Swallow with Draw Soup",
+            "content": "Fried potato/yam chips with egg sauce or any topping of your choice",
+            "price": "N1,000",
+            "src": "./assets/Draw-soup.png"
+        },
+        {
+            "title": "Fries with Egg Sauce",
+            "content": "Fried potato/yam chips with egg sauce or any topping of your choice",
+            "price": "N1,500",
+            "src": "./assets/Fries.png"
+        },
+        {
+            "title": "Swallow with Egusi Soup",
+            "content": "Nicely cooked egusi soup and eba",
+            "price": "N1,000",
+            "src": "./assets/Egusi.png"
+        },
+        {
+            "title": "Beans",
+            "content": "A lovely dish of beans and fried plantains",
+            "price": "N700",
+            "src": "./assets/Beans.png"
+        },
+        {
+            "title": "Fried Rice",
+            "content": "Fried Rice with veggies or any topping of your choice",
+            "price": "N600",
+            "src": "./assets/Fried-rice.png"
+        }
+    ]
+}
